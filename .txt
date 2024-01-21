@@ -1,0 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500;900&family=Poppins:wght@600&display=swap');
+ font-family: 'Montserrat', sans-serif;
+
+
+ https://api.qrserver.com/v1/create-qr-code/?size=150x150&data=
